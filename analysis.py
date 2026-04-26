@@ -1,6 +1,3 @@
-import json
-
-
 def analyse():
     x = 1
     y = 2
